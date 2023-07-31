@@ -1,0 +1,65 @@
+{
+    "canal": "a&e",
+    "iframe-link": "https://playertv.net/tv.php?c=ae"
+    
+}§
+{
+    "canal": "amc",
+    "iframe-link": "https://playertv.net/tv.php?c=amc"
+    
+}§
+{
+    "canal": "animal-planet",
+    "iframe-link": "https://playertv.net/tv.php?c=animal-planet"
+    
+}§
+{
+    "canal": "arte1",
+    "iframe-link": "https://playertv.net/tv.php?c=arte1"
+    
+}§
+{
+    "canal": "axn",
+    "iframe-link": "https://playertv.net/tv.php?c=axn"
+    
+}§
+{
+    "canal": "babytv",
+    "iframe-link": "https://playertv.net/tv.php?c=babytv"
+    
+}§
+{
+    "canal": "band",
+    "iframe-link": "https://playertv.net/tv.php?c=band"
+    
+}§
+{
+    "canal": "band-news",
+    "iframe-link": "https://playertv.net/tv.php?c=band-news"
+    
+}§
+{
+    "canal": "band-sports",
+    "iframe-link": "https://playertv.net/tv.php?c=band-sports"
+    
+}§
+{
+    "canal": "bis",
+    "iframe-link": "https://playertv.net/tv.php?c=bis"
+    
+}§
+{
+    "canal": "canal-brasil",
+    "iframe-link": "https://playertv.net/tv.php?c=canal-brasil"
+    
+}§
+{
+    "canal": "cartoon-network",
+    "iframe-link": "https://playertv.net/tv.php?c=cartoon"
+    
+}§
+{
+    "canal": "cartoonito",
+    "iframe-link": "https://playertv.net/tv.php?c=cartoonito"
+    
+}§
